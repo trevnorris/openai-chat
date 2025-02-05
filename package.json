@@ -1,0 +1,8 @@
+{
+  "type": "module",
+	"dependencies": {
+		"dotenv": "^16.4.7",
+		"js-tiktoken": "^1.0.18",
+		"openai": "^4.83.0"
+	}
+}
